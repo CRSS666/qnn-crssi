@@ -18,5 +18,5 @@ They will mostly be transcripts of published QNN episodes,
 but will contain certain specific changes, such as sponsored segments being
 \<video\> HTML tags with the editions' ads hosted on [catbox.moe](https://catbox.moe).
 
-It shall be available at https://htmlqnn.rop.crssi.cc/ and will be updated
+It shall be available at https://s.qnn.rop.crssi.cc/ and will be updated
 as progress is made. This is purely for fun.

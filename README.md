@@ -20,3 +20,11 @@ but will contain certain specific changes, such as sponsored segments being
 
 It shall be available at https://s.qnn.rop.crssi.cc/ and will be updated
 as progress is made. This is purely for fun.
+
+## `cat-news` branch
+
+THe `cat-news` branch contains a basic HTML version of QNN content, as well
+as some extras.
+
+This version parodies a certain "News" network from the United States of America,
+and has similar insane content.

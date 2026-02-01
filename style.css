@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    font-family: "Roboto", "Helvetica Neue", "Inter", Arial, Helvetica, sans-serif;
+}
+
+.topline {
+    margin-top: 0;
+    background-color: #f2005a;
+    color: white;
+    height: 5px;
+}
+
+.header1 {
+    margin-top: 0;
+    background-color: #007a44;
+    color: white;
+    height: 50px;
+}
+
+.header2 {
+    margin-top: 0;
+    background-color: #2c00a2;
+    color: white;
+    height: 50px;
+    width: 100%;
+}
+
+.header_image_margin {
+    margin-left: 67px;
+    font-size: xx-large;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+main {
+    color: black;
+    margin-top: 10px;
+}
